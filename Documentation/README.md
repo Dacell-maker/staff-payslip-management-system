@@ -1,4 +1,4 @@
-# 💼 Staff Payslip Management System
+# Staff Payslip Management System
 
 A desktop application developed in **C# (Windows Forms)** for managing employee payroll records and generating professional staff payslips.
 
@@ -6,7 +6,7 @@ A desktop application developed in **C# (Windows Forms)** for managing employee 
 
 ---
 
-## 📖 Overview
+## Overview
 
 The Staff Payslip Management System was developed to simplify payroll management by providing an easy-to-use desktop application for maintaining employee records, calculating salaries, and generating printable payslips.
 
@@ -14,19 +14,19 @@ The application provides a centralized platform for payroll administration, help
 
 ---
 
-## ✨ Features
+## Features
 
-- 👨‍💼 Employee Registration and Management
-- 💰 Salary Calculation
-- 📄 Payslip Generation
-- 🖨️ Printable Payslips
-- 🔐 User Authentication
-- 📊 Payroll Record Management
-- ⚡ Simple and User-Friendly Interface
+- Employee Registration and Management
+- Salary Calculation
+- Payslip Generation
+- Printable Payslips
+- User Authentication
+- Payroll Record Management
+- Simple and User-Friendly Interface
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - C#
 - Windows Forms (.NET)
@@ -36,7 +36,7 @@ The application provides a centralized platform for payroll administration, help
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Staff-Payslip-Management-System
@@ -53,7 +53,7 @@ Staff-Payslip-Management-System
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
@@ -78,7 +78,7 @@ Staff Payslip Management System.exe
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 Application screenshots are available in the **Screenshots** folder.
 
@@ -93,13 +93,13 @@ Example screenshots include:
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 Project documentation, user guides, or reports can be found in the **Documentation** folder.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Simplify payroll processing
 - Reduce manual salary computation
@@ -109,7 +109,7 @@ Project documentation, user guides, or reports can be found in the **Documentati
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 - Cloud Database Integration
 - Role-Based Access Control
@@ -121,7 +121,7 @@ Project documentation, user guides, or reports can be found in the **Documentati
 
 ---
 
-## ⚠️ Source Code Notice
+## Source Code Notice
 
 This repository contains the compiled version of the application.
 
@@ -129,7 +129,7 @@ Unfortunately, the original Visual Studio source code is no longer available. Th
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **David Segun**
 
@@ -140,6 +140,6 @@ GitHub: https://github.com/Dacell-maker
 
 ---
 
-## 📜 License
+## License
 
 This project is shared for educational and portfolio purposes.
